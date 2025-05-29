@@ -5,3 +5,6 @@ Amarillo
 Naranja
 Morado
 Rosa
+Cyan
+
+
